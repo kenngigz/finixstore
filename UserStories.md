@@ -1,22 +1,23 @@
-# User Stories for techNotes
+# User Stories for Finix Casino
 
-1. [ ] Replace current sticky note system
-2. [x] Add a public facing page with basic contact info 
-3. [x] Add an employee login to the notes app 
-4. [x] Provide a welcome page after login 
+1. [ ] Replace the current bar order management system
+2. [ ] Add a public-facing page with basic dynamic notices
+3. [ ] Add an employee login to the orders app
+4. [ ] Provide a welcome page after login
 5. [ ] Provide easy navigation
-6. [ ] Display current user and assigned role 
-7. [x] Provide a logout option 
-8. [x] Require users to login at least once per week
-9. [x] Provide a way to remove employee access asap if needed 
-10. [x] Notes are assigned to specific employees 
-11. [x] Notes have a ticket #, title, note body, created & updated dates
-12. [x] Notes are either OPEN or COMPLETED 
-13. [x] Users can be Employees, Managers, or Admins 
-14. [ ] Notes can only be deleted by Managers or Admins 
-15. [ ] Anyone can create a note (when customer checks-in)
-16. [ ] Employees can only view and edit their assigned notes  
-17. [ ] Managers and Admins can view, edit, and delete all notes 
-18. [ ] Only Managers and Admins can access User Settings 
-19. [ ] Only Managers and Admins can create new users 
-20. [ ] Desktop mode is most important but should be available in mobile 
+6. [ ] Display the current user and assigned role
+7. [ ] Provide a logout option
+8. [ ] Require users to log in at least once per week
+9. [ ] Provide a way to remove user access asap if needed
+10. [ ] Orders are assigned to specific users
+11. [ ] Orders have a order #, customer name, order options(approve|| not approve), oder name, order notes, created & updated dates
+12. [ ] Orders that need approval cannot be completed without authorization from manager
+13. [ ] Orders are either OPEN or COMPLETED
+14. [ ] Users can be Employees, Managers, or Admins
+15. [ ] Orders can only be deleted by Managers or Admins
+16. [ ] Anyone can create an order (when the customer checks in)
+17. [ ] Employees can only view and edit their orders
+18. [ ] Managers and Admins can view, edit, and delete all orders
+19. [ ] Only Managers and Admins can access User Settings
+20. [ ] Only Managers and Admins can create new users
+21. [ ] Desktop mode is most important but should be available in mobile
