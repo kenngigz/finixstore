@@ -11,7 +11,7 @@
 9. [ ] Provide a way to remove user access asap if needed
 10. [ ] Orders are assigned to specific users
 11. [ ] Orders have a order #, customer name, order options(approve|| not approve), oder name, order notes, created & updated dates
-12. [ ] Orders that need approval cannot be completed without authorization from manager
+12. [ ] Orders that need approval cannot be completed without authorization from the manager
 13. [ ] Orders are either OPEN or COMPLETED
 14. [ ] Users can be Employees, Managers, or Admins
 15. [ ] Orders can only be deleted by Managers or Admins
